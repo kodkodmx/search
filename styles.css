@@ -1,0 +1,86 @@
+#top{
+    padding: 8px;
+    text-align: right;
+    margin-right: 105px;
+    margin-top: 13px;
+    font-size: 15px;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+#q{
+    border-radius: 40px;
+    width: 575px;
+    height: 40px;
+    border:1px solid lightgrey;
+}
+
+.botton{
+    background-color: #fcfafa;
+    border:none;
+    color:#424242;
+    font-size:14px;
+    padding: 10px 10px;
+    margin:12px;
+    border-radius:4px;
+    outline:none;
+}
+
+#img{ 
+    margin-top: -22px; 
+    margin-left: 205px;
+    color: blue;
+    font-size: 18px;
+} 
+
+#adv{
+    margin-left: 24px;
+    margin-top: 19px;
+    color: red;
+    font-size: 23px;
+}
+
+#logo{
+    margin-left: 12px;
+    margin-top: -97px;
+}
+
+#advance{
+    margin-left: 665px;
+    background-color : rgba(0, 110, 255, 0.904);
+    color: white;
+    border:none;
+    width: 120px;
+    height: 30px;
+    font-size: 12px;
+}
+
+.inp{
+    margin-left: 40px;
+    width: 550px;
+    height: 25px;
+    text-align: left;
+}
+
+#find{
+    margin-left: 40px;
+    margin-top: 65px;
+    font-size: 13px;
+}
+
+#tab{
+    font-size: 14px;
+}
+
+tr{
+    height: 40px;
+}
+
+.notes{
+    padding-left: 20px;
+    font-size: 13px;
+    color: grey;
+}

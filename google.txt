@@ -1,0 +1,13 @@
+https://www.google.com/search?q=Harvard&hl=en&sxsrf=APwXEdeq6VbdvilV6T7JPCfvzR-0TUwXtw%3A1681847988534&source=hp&ei=tPY-ZPz6GryWkPIPh6mUWA&iflsig=AOEireoAAAAAZD8ExNb2RKUCfI7JZ5UZxJlD1ttWAn06&ved=0ahUKEwj8pKv_m7T-AhU8C0QIHYcUBQsQ4dUDCAk&uact=5&oq=Harvard&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBwguEIoFEEMyBwgAEIoFEEMyBwguEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEM6DgguEIoFEMcBENEDEJECOggIABCKBRCRAjoFCAAQgAQ6CwguEIAEEMcBENEDOgUILhCABDoKCC4QigUQ1AIQQzoNCC4QigUQxwEQ0QMQQzoKCC4Q1AIQigUQQ1AAWN4PYMcZaABwAHgAgAGtAYgB4AaSAQMyLjWYAQCgAQE&sclient=gws-wiz
+
+https://www.google.com.mx/search?q=harvard&hl=en&tbm=isch&sxsrf=APwXEdddOETO1Z99sFYWF61HKAN7YoTxMQ%3A1681939825754&source=hp&biw=1536&bih=714&ei=cV1AZNHiK_yjkPIPmpOgoAk&iflsig=AOEireoAAAAAZEBrgZn9F4Wny3TobjitUr665aGG5P7G&oq=harvard&gs_lcp=CgNpbWcQARgAMggIABCABBCxAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABFAAWN8HYIsSaABwAHgAgAHYAYgBzAaSAQU0LjIuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img
+
+https://www.google.com/search?as_q=azul+verde+rojo&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&tbs=
+
+https://www.google.com/search?as_q=&as_epq=%22azul+verde+rojo%22&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&tbs=
+
+https://www.google.com/search?as_q=&as_epq=&as_oq=azul+verde&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&tbs=
+
+https://www.google.com/search?as_q=&as_epq=&as_oq=&as_eq=-azul&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&tbs=
+
+https://www.google.com/search?q=HARVARD&btnI=I'm+Feeling+Lucky
